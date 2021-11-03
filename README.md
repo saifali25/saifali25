@@ -32,7 +32,7 @@
 
  <a href="https://linkedin.com/in/saif-ali-1841031b8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
- <a href="https://instagram.com/saifali.dev" target="_blank"><img src="https://img.shields.io/badge/Instagram-25D366?style=for-the-badge&logo=instagram&logoColor=white"></a>
+ <a href="https://instagram.com/saifali.dev" target="_blank"><img src="https://img.shields.io/badge/Instagram-FF7F7F?style=for-the-badge&logo=instagram&logoColor=white"></a>
                                                                   
  <a href="https://www.fiverr.com/saifali_2547?up_rollout=true" target="_blank"><img src="https://img.shields.io/badge/fiverr-25D366?style=for-the-badge&logo=fiverr&logoColor=white"></a>                                                                 
                                                                   
