@@ -3,8 +3,8 @@
 
 ## I'm a Software Engineering Student and a Mobile Application Developer!!
 
-- 🌱 I’m currently learning Flutter and practicing my skills as a UI/UX Designer.
-- 💻 I also sell my services as a Flutter Freelancer
+- 🌱 I’m currently learning Flutter and polishing my skills as a UI/UX Designer.
+- 💻 I also sell my services as a Flutter Developer at Fiverr
 - 👯 I’m looking forward to collaborate with other developers.
 - 🥅 2021 Goals: Become an expert in flutter and start contributing to open source projects.
 - ⚡ Fun fact: I love to read and play badminton. 
@@ -55,31 +55,11 @@
   
 
  <img align="center" alt="Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/flutter/flutter-original.svg">
- <img align="center" alt="Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/dart/dart-original.svg">
+ <img align="center" alt="Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/dart/dart-original.svg">
+ <img align="center" alt="Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/kotlin/kotlin-original.svg">
 
   <hr>
-
-  
-
-  <h3> IDE </h3>  
-
- <img align="left" alt="Visual Studio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/visualstudio/visualstudio-plain.svg">
-
- <img align="left" alt="VS code" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vscode/vscode-original.svg">
-
- <img align="left" alt="android studio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/android/android-original.svg"><br>
-
-  <hr>
-
- <h3> Back-end </h3>
-
- <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
- <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
  
- <hr>
-
-  
-
  <h3> UI/UX Designer </h3>
 
    
@@ -89,6 +69,41 @@
  <img align="center" alt="adobe xd" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/xd/xd-plain.svg">
 
  <hr>
+
+ 
+  <h3> Front-end </h3>
+
+ <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+
+ <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
+
+ <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
+
+ <img align="center" alt="bootstrp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/bootstrap/bootstrap-plain-wordmark.svg">
+ 
+ <hr>
+
+ <h3> Back-end </h3>
+
+ <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+ <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+ 
+ <hr>
+ 
+ <h3> Tools </h3>  
+
+ <img align="left" alt="Visual Studio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/visualstudio/visualstudio-plain.svg">
+
+ <img align="left" alt="VS code" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vscode/vscode-original.svg">
+ 
+ <img align="left" alt="Zeplin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/git/git-original.svg">
+
+ <img align="left" alt="android studio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/android/android-original.svg"><br>
+
+  <hr>
+  
+
+ 
 
 
  
