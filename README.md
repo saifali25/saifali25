@@ -1,12 +1,12 @@
-### Hi there, I'm Saif Ali 👋
+### Hi there, I'm Choudhary Saif Ali 👋
 
 
-## I'm a Software Engineering Student and a Mobile Application Developer!!
+## I'm a Software Engineer who loves to create mobile apps!!
 
-- 🌱 I’m currently learning Flutter and polishing my skills as a UI/UX Designer.
+- 🌱 I’m currently practicing Flutter and polishing my skills as a UI/UX Designer.
 - 💻 I also sell my services as a Flutter Developer at Fiverr
 - 👯 I’m looking forward to collaborate with other developers.
-- 🥅 2021 Goals: Become an expert in flutter and start contributing to open source projects.
+- 🥅 2022 Goals: Become an expert in flutter and start contributing to open source projects.
 - ⚡ Fun fact: I love to read and play badminton. 
 
 
