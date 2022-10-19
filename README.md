@@ -1,8 +1,3 @@
-### Hi there, I'm Choudhary Saif Ali 👋
-
-
-## I'm a Software Engineer who loves to create mobile apps!!
-
 # 💫 About Me:
 🌱 I’m a Software Engineer<br>💻 I work as a Flutter Developer at a software house and also as a freelancer at Upwork and Fiverr.<br>👯 I’m looking forward to collaborating with other developers.<br>🥅 2022 Goals: Become an expert in flutter and start contributing to open-source projects.<br>⚡ Fun fact: I love to read and play badminton.
 
