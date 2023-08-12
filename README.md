@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m a Software Engineer<br>💻 I work as a Flutter Developer at a software house and also as a freelancer at Upwork and Fiverr.<br>👯 I’m looking forward to collaborating with other developers.<br>🥅 2023 Goals: Become an expert in flutter and start contributing to open-source projects.<br>⚡ Fun fact: I love to read and play badminton.
+🌱 I’m a Cybersecurity enthusiast and Software Engineer<br>💻 Experienced in Flutter development for cross-platform mobile apps and actively advancing expertise in cybersecurity. <br>👯 Open to connecting and exploring opportunities in the field. <br>🥅 2023 Goals: Become an expert in using cybersecurity knowledge in building more secure mobile apps. <br>⚡ Fun fact: I love to read and play badminton.
 
 
 ## 🌐 Socials:
